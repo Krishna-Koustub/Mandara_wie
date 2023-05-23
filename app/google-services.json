@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668363791374",
+    "project_id": "mandara-bad78",
+    "storage_bucket": "mandara-bad78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668363791374:android:8246628f0964ddda4d705f",
+        "android_client_info": {
+          "package_name": "com.mad.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668363791374-b4qeq0us3jt24o8kn3t49rji94fv0rqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQRcKoh0xLQg4E7Y6WyYK15SXhDQA9Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668363791374-b4qeq0us3jt24o8kn3t49rji94fv0rqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
